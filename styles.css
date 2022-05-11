@@ -25,6 +25,10 @@ nav > ul {
         justify-content: center;
         align-content: center;
                   
+        position: fixed;
+        top: 0;
+        width: 100%;
+        
         height: 30px;
         background-color: rgba(70, 116, 31, 0.439);
 
@@ -38,7 +42,7 @@ nav > ul {
 
 main { 
     max-width:1024px;
-    height: 1200px;
+    height: ;
     margin: 5rem auto;
     /*background-color: peru;*/
     border: solid orange 5px;
